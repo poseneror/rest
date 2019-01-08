@@ -1,8 +1,20 @@
 {
-  "posts": [
+  "tables": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "some table",
+      "items": [
+        {
+          "name": "cola",
+          "icon": "",
+          "price": 10
+        },
+        {
+          "name": "hamburger",
+          "icon": "",
+          "price": 30
+        }
+      ]
     }
   ],
   "profile": {
