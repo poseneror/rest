@@ -1,9 +1,9 @@
 {
-  'items': [
+  "items": [
     {
-      'name': 'hamburger',
-      'icon': '',
-      'price': 30
+      "name": "hamburger",
+      "icon": "",
+      "price": 30
     }
   ]
 }
