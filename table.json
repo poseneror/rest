@@ -1,0 +1,9 @@
+{
+  items: [
+    {
+      name: 'hamburger',
+      icon: '',
+      price: 30
+    }
+  }
+}
