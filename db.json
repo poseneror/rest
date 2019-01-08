@@ -6,12 +6,12 @@
       "items": [
         {
           "name": "cola",
-          "icon": "",
+          "category": "BEER",
           "price": 10
         },
         {
           "name": "hamburger",
-          "icon": "",
+          "category": "FOOD",
           "price": 30
         }
       ]
