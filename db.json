@@ -12,7 +12,13 @@
         {
           "name": "hamburger",
           "category": "FOOD",
-          "price": 30
+          "price": 30,
+          "subitems": [
+            {
+              "name": "Egg",
+              "price": 7,
+            }
+            ]
         },
         {
           "name": "cola",
