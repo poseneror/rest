@@ -7,12 +7,14 @@
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
+          "price": 10,
+          "status": 'PENDING'
         },
         {
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
+          "status": 'PENDING',
           "subitems": [
             {
               "name": "Egg",
@@ -23,64 +25,78 @@
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
+          "price": 10,
+          "status": 'PENDING'
         },
         {
           "name": "hamburger",
           "category": "FOOD",
-          "price": 30
+          "price": 30,
+          "status": 'PENDING'
         },
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
+          "price": 10,
+          "status": 'PENDING'
         },
         {
           "name": "hamburger",
           "category": "FOOD",
-          "price": 30
+          "price": 30,
+          "status": 'PENDING'
         },
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
+          "price": 10,
+          "status": 'PENDING'
         },
         {
           "name": "hamburger",
           "category": "FOOD",
-          "price": 30
+          "price": 30,
+          "status": 'PENDING'
         },
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
+          "price": 10,
+          "status": 'PENDING'
         },
         {
           "name": "hamburger",
           "category": "FOOD",
-          "price": 30
+          "price": 30,
+          "status": 'PENDING'
         },
         {
           "name": "cola",
           "category": "BEER",
-          "price": 10
-        },
-        {
-          "name": "hamburger",
-          "category": "FOOD",
-          "price": 30
-        },
-        {
-          "name": "cola",
-          "category": "BEER",
-          "price": 10
-        },
-        {
-          "name": "hamburger",
-          "category": "FOOD",
-          "price": 30
+          "price": 10,
+          "status": 'PENDING'
         }
-      ]
+      ],
+      cart: [
+        {
+          "name": "hamburger",
+          "category": "FOOD",
+          "price": 30,
+          "status": 'PENDING'
+        },
+        {
+          "name": "cola",
+          "category": "BEER",
+          "price": 10,
+          "status": 'PENDING'
+        },
+        {
+          "name": "hamburger",
+          "category": "FOOD",
+          "price": 30,
+          "status": 'PENDING'
+        }
+        ]
     }
   ],
   "profile": {
