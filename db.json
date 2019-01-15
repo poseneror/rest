@@ -5,14 +5,14 @@
       "title": "some table",
       "items": [
         {
-          "uuid": "134",
+          "id": "134",
           "name": "cola",
           "category": "BEER",
           "price": 10,
           "status": "PENDING"
         },
         {
-          "uuid": "521",
+          "id": "521",
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
@@ -25,63 +25,63 @@
             ]
         },
         {
-          "uuid": "221",
+          "id": "221",
           "name": "cola",
           "category": "BEER",
           "price": 10,
           "status": "PENDING"
         },
         {
-          "uuid": "21",
+          "id": "21",
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
           "status": "PENDING"
         },
         {
-          "uuid": "7",
+          "id": "7",
           "name": "cola",
           "category": "BEER",
           "price": 10,
           "status": "IN_CART"
         },
         {
-          "uuid": "987",
+          "id": "987",
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
           "status": "PENDING"
         },
         {
-          "uuid": "6745",
+          "id": "6745",
           "name": "cola",
           "category": "BEER",
           "price": 10,
           "status": "PENDING"
         },
         {
-          "uuid": "2",
+          "id": "2",
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
           "status": "IN_CART"
         },
         {
-          "uuid": "18",
+          "id": "18",
           "name": "cola",
           "category": "BEER",
           "price": 10,
           "status": "PENDING"
         },
         {
-          "uuid": "14",
+          "id": "14",
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
           "status": "PENDING"
         },
         {
-          "uuid": "1",
+          "id": "1",
           "name": "cola",
           "category": "BEER",
           "price": 10,
