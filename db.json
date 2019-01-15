@@ -43,7 +43,7 @@
           "name": "cola",
           "category": "BEER",
           "price": 10,
-          "status": "PENDING"
+          "status": "IN_CART"
         },
         {
           "uuid": "987",
@@ -64,7 +64,7 @@
           "name": "hamburger",
           "category": "FOOD",
           "price": 30,
-          "status": "PENDING"
+          "status": "IN_CART"
         },
         {
           "uuid": "18",
@@ -85,10 +85,10 @@
           "name": "cola",
           "category": "BEER",
           "price": 10,
-          "status": "PENDING"
+          "status": "IN_CART"
         }
       ],
-      cart: ["1","2","7"]
+      "cart": ["1","2","7"]
     }
   ],
   "profile": {
